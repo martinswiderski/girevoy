@@ -1,0 +1,29 @@
+{
+  "name": "girevoy",
+  "version": "0.0.1",
+  "description": "Little toolkit for heavy-lifting",
+  "main": "girevoy.js",
+  "scripts": {
+    "test": "jasmine-node test/specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinswiderski/girevoy.git"
+  },
+  "keywords": [
+    "toolkit",
+    "scoring",
+    "statistical",
+    "graph",
+    "score",
+    "engine",
+    "data",
+    "source"
+  ],
+  "author": "Martin Swiderski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinswiderski/girevoy/issues"
+  },
+  "homepage": "https://github.com/martinswiderski/girevoy#readme"
+}
